@@ -1,0 +1,5 @@
+# .gitignore
+.env
+*.key
+credentials/
+git check-ignore -v .env  # Should confirm .env is ignored
